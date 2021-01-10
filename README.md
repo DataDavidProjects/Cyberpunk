@@ -34,7 +34,7 @@ This is just a system to simulate a click and hold in the crafting session ,if y
   
   * The Program will start the countdown
   
-  * Mouve your mouse in the game window just to ensure you are in the game and wait for the execution of the script
+  * Move your mouse in the game window just to ensure you are in the game and wait for the execution of the script
   
   * The mouse will click and craft for you ;) 
   
