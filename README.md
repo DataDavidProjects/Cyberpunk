@@ -7,9 +7,13 @@ This is just a system to simulate a click and hold in the crafting session ,if y
 ##  CRAFTING IN CYBERPUNK For NON Python users:
 
   * Install Python >3 
-  link to download python in official webpage : https://www.python.org/downloads/release/python-385/
-  Link to download Python 3.8.5 For windows10 64bit users ( good for most windows users) : https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe
-  Click and follow the installation, if you have problems check some tutorial on youtube like this one: https://www.youtube.com/watch?v=UvcQlPZ8ecA
+  
+      * link to download python in official webpage : https://www.python.org/downloads/release/python-385/
+      
+      * Link to download Python 3.8.5 For windows10 64bit users ( good for most windows users) : https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe
+      
+      
+      * Click and follow the installation, if you have problems check some tutorial on youtube like this one: https://www.youtube.com/watch?v=UvcQlPZ8ecA
   
   * Download from this repo the file "Cyberpunk.py"
   
