@@ -2,7 +2,7 @@
 Play Cyberpunk with Python.
 A first non official version of python to speed up the crafting system of Cyberpunk 2077.
 
-This is just a system to simulate a click and hold in the crafting session ,if you have any issues or bugs in the game they won't be caused by this simple script.
+This is just a system to simulate a click and hold in the crafting session ,if you have any issues or bugs in the game remind they won't be caused by this simple script.
 
 ##  CRAFTING IN CYBERPUNK For NON Python users:
 
