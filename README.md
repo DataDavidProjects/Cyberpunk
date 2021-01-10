@@ -1,5 +1,7 @@
 # Cyberpunk
 
+![alt text](https://github.com/DataDavidProjects/Cyberpunk/blob/main/jsilver-meme.jpg)
+
 Play Cyberpunk with Python.
 **A non official version of python to speed up the crafting system of Cyberpunk 2077.**
 
