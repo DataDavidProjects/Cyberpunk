@@ -57,4 +57,4 @@ standard
 custom
 * craft_coords = (modify here,modify here)
 
-There is a safe system to warn users that if they run more than 500 rounds they will be blocked for 0.7 * number of craftinhg seconds.
+There is a safe system to warn users that if they run more than 500 rounds they will be blocked for (0.7 * number of crafting rounds) seconds.
