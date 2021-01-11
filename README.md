@@ -38,7 +38,7 @@ What is python ? https://www.python.org/
   
   * The Program will start the countdown
   
-  * Move your mouse in the game window just to ensure you are in the game and wait for the execution of the script
+  * Move your mouse in the game window and clickl few times just to ensure you are in the game and wait for the execution of the script
   
   * The mouse will click and craft for you ;) 
   
