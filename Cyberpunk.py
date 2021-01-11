@@ -57,7 +57,7 @@ if __name__ == "__main__":
     round_craft = int(input("Insert-number-of-Crafting-Rounds:"))
   
     # Safe block
-    max_craft = 500
+    max_craft = 50
     if round_craft > max_craft:
         print('Safe block for more than {} runs, please insert a smaller number'.format(max_craft))
         print('Are you sure you want to run ? ', )
