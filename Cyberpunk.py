@@ -59,7 +59,7 @@ if __name__ == "__main__":
     # Safe block
     max_craft = 50
     if round_craft > max_craft:
-        print('Safe block for more than {} runs, please insert a smaller number'.format(max_craft))
+        print('Safe block for more than {} runs'.format(max_craft))
         print('Are you sure you want to run ? ', )
         answer = input('press y to run or n ro go back:')
         if answer == 'y':
