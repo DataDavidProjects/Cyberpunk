@@ -13,6 +13,10 @@ except:
     install('pyautogui')
 #_____________________________________________________________________________
 
+
+
+
+
 #______________________________ Define coordinates of screen_____________________
 craft_coords = (1146,878)
 
@@ -31,9 +35,22 @@ def craft_some_shit(craft_coords =craft_coords):
 
 #________________________________ Round exec ______________________________________
 if __name__ == "__main__":
-    print(' '*30,'*'*len('CRAFTING FOR LAZY ASS DUDES'),' '*30)
-    print(' '*30,'CRAFTING FOR LAZY ASS DUDES',' '*30)
-    print(' '*30,'*'*len('CRAFTING FOR LAZY ASS DUDES'),' '*30)
+
+    print('*'*80)
+    print( """
+                    ______      __                                __  
+*                  / ____/_  __/ /_  ___  _________  __  ______  / /__          *
+*                 / /   / / / / __ \/ _ \/ ___/ __ \/ / / / __ \/ //_/          *
+*                / /___/ /_/ / /_/ /  __/ /  / /_/ / /_/ / / / / ,<             *
+*                \____/\__, /_.___/\___/_/  / .___/\__,_/_/ /_/_/|_|            * 
+*                     /____/               /_/                                  *
+*                                                                               *
+*                                                                               *
+                """)
+    print('*'*80)
+    print(' '*24,'*'*len('CRAFTING FOR LAZY ASS DUDES'),' '*24)
+    print(' '*24,'CRAFTING FOR LAZY ASS DUDES',' '*24)
+    print(' '*24,'*'*len('CRAFTING FOR LAZY ASS DUDES'),' '*24)
 
     print()
     
@@ -70,3 +87,6 @@ if __name__ == "__main__":
         craft_some_shit()
         c+=1
 #____________________________________________________________________________________
+
+
+
