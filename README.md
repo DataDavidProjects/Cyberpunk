@@ -9,6 +9,8 @@ This is just a system to simulate a click and hold in the crafting session ,if y
 
 ##  CRAFTING IN CYBERPUNK For NON Python users:
 
+What is python ? https://www.python.org/
+
   * Install Python >3 
   
       * link to download python in official webpage : https://www.python.org/downloads/release/python-385/
