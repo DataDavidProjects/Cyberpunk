@@ -26,7 +26,9 @@ This is just a system to simulate a click and hold in the crafting session ,if y
   
   * Double-click on the Python file "Cyberpunk.py" in your computer ( the python lunch icon will appear in your taskbar, click on it)
   
-  * You might see some line of codes going on , don't worry they are just installing the requirements
+  * You might see some line of codes going on , don't worry they are just installing the requirements.
+  
+  * The python program might quit automatically after the installation of the requirements, open it again in that case.
   
   * Python will ask you to "Insert-number-of-Crafting-Rounds" , it is the number of items you wish to craft
   
