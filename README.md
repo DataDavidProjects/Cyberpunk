@@ -18,7 +18,7 @@ This is just a system to simulate a click and hold in the crafting session ,if y
       
       * Click and follow the installation, if you have problems check some tutorial on youtube like this one: https://www.youtube.com/watch?v=UvcQlPZ8ecA
   
-  * Download from this repo the file "Cyberpunk.py" ( click on the green button and download the folder as zip )
+  * Download from this repo the file "Cyberpunk.py" ( click on the green button "Code" and download the folder as zip )
   
   * Enter in Cyberpunk 2077 
   
