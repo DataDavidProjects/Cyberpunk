@@ -20,7 +20,7 @@ What is python ? https://www.python.org/
       
       * Click and follow the installation, if you have problems check some tutorial on youtube like this one: https://www.youtube.com/watch?v=UvcQlPZ8ecA
   
-  * Download from this repo the file "Cyberpunk.py" ( click on the green button "Code" and download the folder as zip )
+  * Download this folder from the repository and open the file "Cyberpunk.py" ( click on the green button "Code" and download the folder as zip )
   
   * Enter in Cyberpunk 2077 
   
